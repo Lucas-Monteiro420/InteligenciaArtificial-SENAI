@@ -1,4 +1,4 @@
-temperatura,pressão,humidade,direção do vento,velocidade do vento,dia_da_semana,data
+Temperatura,Pressão,Umidade,Direção do Vento,Velocidade do Vento,Dia Da Semana,Data
 282.08,1024.0,81.0,0.0,0.0,Domingo,2012-10-01 12:00:00
 282.08,1024.0,81.0,0.0,0.0,Domingo,2012-10-01 13:00:00
 282.083251974,1024.0,80.0,4.0,0.0,Domingo,2012-10-01 14:00:00
